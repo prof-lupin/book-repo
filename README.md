@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Book Repo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn install`
 
 Make sure you run this first in order to install all the dependencies.
 
@@ -19,3 +19,5 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Demo
+
+![Demo](https://github.com/prof-lupin/book-repo/blob/master/demo/Screen%20Recording%202021-01-24%20at%2011.05.29%20PM.gif)
